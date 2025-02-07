@@ -64,7 +64,5 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-21a4ef?style=for-the-badge&logo=vsc)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
 
-![Snake animation](https://raw.githubusercontent.com/AlphaHasher/AlphaHasher/output/github-contribution-grid-snake-dark.svg)
-
 <h1 align="center"> Thanks for Visiting my GitHub Profile!</br></h1>
 
