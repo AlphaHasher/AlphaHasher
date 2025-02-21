@@ -35,6 +35,7 @@
 ![Discord.py](https://img.shields.io/badge/Discord.py-black?style=for-the-badge&logo=discord)
 ![PASCO Capstone](https://img.shields.io/badge/PASCO%20Capstone-064579?style=for-the-badge)
 ![SciDAVis](https://img.shields.io/badge/SciDAVis-f9f9e4?style=for-the-badge)
+![11ty](https://img.shields.io/badge/11ty-grey?style=for-the-badge&logo=eleventy)
 
 #### Cloud Services & Web Hosting
 ![AWS](https://img.shields.io/badge/AWS-f1950b?style=for-the-badge&logo=amazonwebservices)
