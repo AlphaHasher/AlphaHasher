@@ -15,6 +15,7 @@
 #### Languages
 ![Java](https://img.shields.io/badge/Java-df870a?logoColor=white&style=for-the-badge&logo=openjdk)
 ![Python](https://img.shields.io/badge/Python-3b74a3?logoColor=white&style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-512bd4?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ebd628?logoColor=white&style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/Typescript-3776bc?logoColor=white&style=for-the-badge&logo=typescript)
 ![C](https://img.shields.io/badge/C-075794?logoColor=white&style=for-the-badge&logo=c)
@@ -28,6 +29,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-black?logoColor=white&style=for-the-badge&logo=markdown)
 
 #### Frameworks & Tools
+![.Net](https://img.shields.io/badge/.Net-512bd4?style=for-the-badge&logo=dotnet)
 ![Node.js](https://img.shields.io/badge/Node.js-6b9e5f?logoColor=white&style=for-the-badge&logo=node.js)
 ![Express.js](https://img.shields.io/badge/Express.js-blue?style=for-the-badge&logo=express)
 ![OpenGL (GLFW)](https://img.shields.io/badge/OpenGL%20(GLWF)-06bcec?logoColor=white&style=for-the-badge&logo=opengl)
@@ -37,9 +39,12 @@
 ![SciDAVis](https://img.shields.io/badge/SciDAVis-f9f9e4?style=for-the-badge)
 ![11ty](https://img.shields.io/badge/11ty-grey?style=for-the-badge&logo=eleventy)
 
-#### Cloud Services & Web Hosting
+#### Cloud Services & Web Hosting & Cloud Environments
 ![AWS](https://img.shields.io/badge/AWS-f1950b?style=for-the-badge&logo=amazonwebservices)
 ![CLOUDFLARE](https://img.shields.io/badge/Cloudflare-white?style=for-the-badge&logo=cloudflare)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0044c6?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=terraform)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4782e6?logoColor=white&style=for-the-badge&logo=google-cloud)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 ![Render](https://img.shields.io/badge/Render-black?style=for-the-badge&logo=render)
@@ -50,20 +55,23 @@
 ![MySQL](https://img.shields.io/badge/MySQL-437296?logoColor=white&style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4d9e4a?logoColor=white&style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-0e415c?style=for-the-badge&logo=sqlite)
+![ISAM](https://img.shields.io/badge/ISAM-grey?style=for-the-badge)
 
 #### Design/Visual Tools
 ![Figma](https://img.shields.io/badge/Figma-e14e22?logoColor=white&style=for-the-badge&logo=figma)
 ![Canva](https://img.shields.io/badge/Canva-09bac1?&logoColor=white&style=for-the-badge&logo=canva)
-![Gimp](https://img.shields.io/badge/Gimp-605a4a?style=for-the-badge&logo=gimp)
+![Gimp](https://img.shields.io/badge/Gimp-white?style=for-the-badge&logo=gimp)
 ![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-233a51?style=for-the-badge&logo=davinciresolve)
 ![Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobephotoshop)
 
 #### Version Control
 ![Git](https://img.shields.io/badge/Git-df4f34?logoColor=white&style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![AzureDevops](https://img.shields.io/badge/Azure%20Devops-white?style=for-the-badge)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0a54c2?style=for-the-badge&logo=bitbucket)
 
 #### Code Editors
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-black?style=for-the-badge)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-21a4ef?style=for-the-badge&logo=vsc)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
 
