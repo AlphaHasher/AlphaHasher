@@ -8,7 +8,7 @@
 
 # About Me 💫
 - Take a look at my portfolio here! [danagafonov.info](https://danagafonov.info/)<br>
-- I am a 4th year computer science student as California State University, Sacramento
+- I am a 4th year computer science student as California State University, Sacramento (Graduating December)
 
 # Tech Stack 💻
 
@@ -17,6 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3b74a3?logoColor=white&style=for-the-badge&logo=python)
 ![C#](https://img.shields.io/badge/C%23-512bd4?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ebd628?logoColor=white&style=for-the-badge&logo=javascript)
+![Rust](https://img.shields.io/badge/Rust-d24d29?logoColor=white&style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/Typescript-3776bc?logoColor=white&style=for-the-badge&logo=typescript)
 ![C](https://img.shields.io/badge/C-075794?logoColor=white&style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-03375e?logoColor=white&style=for-the-badge&logo=cplusplus)
@@ -52,6 +53,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-black?style=for-the-badge&logo=netlify)
 
 #### Database Management
+![MSSQL](https://img.shields.io/badge/Miscrosoft%20SQL%20Server-white?logoColor=white&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHQAAAB0CAYAAABUmhYnAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGdSURBVHhe7d2hTlxBAIbRuUtJKE0FunKDQNQhq0k9z9OHqYF3wOBwJCSEpLoGgyC9u0GQTatv34DDd+Rvv2Rm3Ezz+fHfofrxc4z118X0uLkdlw9ni02y+n/I21ZQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQTEExBcUUFFNQzDTf3bjffHxZj3FwuJhed9vx9PJrsUmmeZ7doO9QRy6moJiCYqbr33/YO/Tk8zQ+fVhu0247VvKjaP/imQ169W01To+mxba3uR0f778vNklHLqagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmIJiCoopKKagmH+aqCTabCjsmAAAAABJRU5ErkJggg==)
 ![MySQL](https://img.shields.io/badge/MySQL-437296?logoColor=white&style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4d9e4a?logoColor=white&style=for-the-badge&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/SQLite-0e415c?style=for-the-badge&logo=sqlite)
@@ -76,4 +78,3 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellijidea)
 
 <h1 align="center"> Thanks for Visiting my GitHub Profile!</br></h1>
-
