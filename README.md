@@ -8,7 +8,6 @@
 
 # About Me 💫
 - Take a look at my portfolio here! [danagafonov.info](https://danagafonov.info/)<br>
-- I am a 4th year computer science student as California State University, Sacramento (Graduating December)
 
 # Tech Stack 💻
 
